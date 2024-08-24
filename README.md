@@ -32,8 +32,11 @@ Agregar archivos al repositorio para darles seguimiento git add .
 
 Realizar un commit de los archivos previamente agregados con mensaje personalizado git commit -m "Reto Banistmo" 
 
-Cambiar nombre de rama principal git branch -M main 
-_Configurar el repositorio remoto con la url dada por Github git remote add origin  https://github.com/VivianaRojasV/PruebaBanistmo.git _
-_Subir cambios al repositorio remoto git push -u origin master _
-_Con estos pasos se podra desde inicializar un repositorio local hasta subir cambios a un repositorio remoto_
+Cambiar nombre de rama principal git branch -M main
+
+Configurar el repositorio remoto con la url dada por Github git remote add origin  https://github.com/VivianaRojasV/PruebaBanistmo.git 
+
+Subir cambios al repositorio remoto git push -u origin master
+
+Con estos pasos se podra desde inicializar un repositorio local hasta subir cambios a un repositorio remoto
 
