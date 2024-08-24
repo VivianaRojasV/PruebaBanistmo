@@ -19,17 +19,17 @@ _**Se realiza reto de automatización para Banistmo.**_
 
 ## Prerequisitos :arrow_forward:
 
-_Crear repositorio en Github
-Configurar git con la informacion necesaria de tus credenciales._
+_Crear repositorio en Github_
+_Configurar git con la informacion necesaria de tus credenciales._
 
 ## Comandos git.
 
-_Comandos git
-Inicializar repositorio git init
-Agregar archivos al repositorio para darles seguimiento git add .
-Realizar un commit de los archivos previamente agregados con mensaje personalizado git commit -m "Reto Banistmo"
-Cambiar nombre de rama principal git branch -M main
-Configurar el repositorio remoto con la url dada por Github git remote add origin  https://github.com/VivianaRojasV/PruebaBanistmo.git
-Subir cambios al repositorio remoto git push -u origin master
-Con estos pasos se podra desde inicializar un repositorio local hasta subir cambios a un repositorio remoto_
+_Comandos git_
+_Inicializar repositorio git init_
+_Agregar archivos al repositorio para darles seguimiento git add . _
+_Realizar un commit de los archivos previamente agregados con mensaje personalizado git commit -m "Reto Banistmo" _
+_Cambiar nombre de rama principal git branch -M main _
+_Configurar el repositorio remoto con la url dada por Github git remote add origin  https://github.com/VivianaRojasV/PruebaBanistmo.git _
+_Subir cambios al repositorio remoto git push -u origin master _
+_Con estos pasos se podra desde inicializar un repositorio local hasta subir cambios a un repositorio remoto_
 
