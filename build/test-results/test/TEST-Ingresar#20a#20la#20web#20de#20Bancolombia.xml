@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ingresar a la web de Bancolombia" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-24T03:00:05" hostname="BIMAS26" time="163.082">
+  <properties/>
+  <testcase name="Descargar pdf" classname="Ingresar a la web de Bancolombia" time="163.082"/>
+  <system-out><![CDATA[?[92m|-- Given Selecciona personas?[0m
+?[92m|---- Automation click button personas tasks?[0m
+?[92m|------ Automation clicks on Boton de Personas?[0m
+?[92m|-- When Ir a boton de producto y servicios?[0m
+?[92m|---- Automation click button productos tasks?[0m
+?[92m|------ Automation clicks on Boton Productos?[0m
+?[92m|-- When Oprime boton inversiones?[0m
+?[92m|---- Automation click button inversiones tasks?[0m
+?[92m|------ Automation clicks on Boton de Inversionas?[0m
+?[92m|-- When Oprimir Inversion virtual?[0m
+?[92m|---- Automation click button inversion virtual tasks?[0m
+?[92m|------ Automation clicks on Boton de Inversion Virtual?[0m
+?[92m|------ Automation cambio?[0m
+?[92m|-- When Descarga  “Reglamento Inversion Virtual Bancolombia.pdf”?[0m
+?[92m|---- Automation click button descarga tasks?[0m
+?[92m|------ Automation clicks on Boton de Documento?[0m
+?[92m|------ Automation clicks on Boton de Dercarga PDF?[0m
+?[92m|-- Then Validar pdf?[0m
+?[92m|---- Automation wait?[0m
+?[92m|---- Automation cambio?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
